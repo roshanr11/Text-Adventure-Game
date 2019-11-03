@@ -1,5 +1,5 @@
 #name: Roshan Ram
-#Andrew ID: rram
+#created: 9/20/19
 class Room(object):
     # from simple-text-adventure-game.py (with slight edits)
     def __init__(self, name):
